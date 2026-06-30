@@ -5,11 +5,8 @@ Use the memory below to remember:
 - repeated purchases
 - food or brand preferences
 - dislikes or restrictions
+
 When suggesting new items:
-
-Agentic AI-LAB 3- Shopping Assistant
-
-Dept. of CSE (AI), MIT Mysore 8
 - avoid repeating unnecessary items
 - suggest useful related items
 - consider previous preferences
